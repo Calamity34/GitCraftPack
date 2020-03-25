@@ -4,7 +4,7 @@ A minecraft datapack made by contributors!
 ## Requirements
 * git installed on your machine
 
-On Linux: `sudo apt install git` (or the alternative, depending on your package manager)
+On Linux: `sudo apt install git` (or the alternative, depending on your package manager)<br />
 On Windows and MacOS: Go to https://git-scm.com and download and install it from there
 
 ## How to contribute
@@ -27,12 +27,12 @@ On the right sidebar:
 
 ## How to use the datapack
 Well, first of all it depends where did you clone your repository fork.
-If you cloned it into the `.minecraft/saves/WorldName/datapacks/` then i congratulate you, you can hop into that world and start using the datapack! If you cloned it somewhere else, well, you will need to clone my repository edition into the /datapacks/ folder using:
+If you cloned it into the `.minecraft/saves/WorldName/datapacks/` then i congratulate you, you can hop into that world and start using the datapack! If you cloned it somewhere else, well, you will need to clone my repository edition into the /datapacks/ folder using:<br />
 `cd ?/.minecraft/saves/WorldName/datapacks && git clone https://github.com/Calamity34/GitCraftPack.git`
 That will make the datapack ready for usage in your world!
 
 ## File Adding Info
-Please leave a comment `# just like this` if you have made a function for people to know that you have made this part. If you have made a json file, leave your mark in `credits.md` at /data/git/credits.md
+If you have created a file, please be sure to add your github username to `/data/git/credits.md` so we know that you are the OG creator of the file
 
 ### Additional info
 1. USE THE DATAPACK ONLY IN VERSION 1.14.4 BECAUSE OF VARIOUS THINGS
@@ -40,4 +40,4 @@ Please leave a comment `# just like this` if you have made a function for people
 3. Regularly do `cd [All the way to the GitCraftPack folder] && git fetch && git pull` to keep the datapack fresh
 4. The pull request templates will be added soon, so keep an eye out!
 
-Feel free to ask me any question on my Twitter `https://twitter.com/_TheCalamity_` and Discord `Calamity#6480`!
+Feel free to ask me any questions on my Twitter `https://twitter.com/_TheCalamity_` and Discord `Calamity#6480`!
