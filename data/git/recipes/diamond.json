@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "igi",
+        "gEg",
+        "igi"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "minecraft:diamond",
+        "count": 1
+    }
+}
