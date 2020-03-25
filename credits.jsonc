@@ -1,0 +1,22 @@
+// Credit structure:
+// In object "credits" there are usernames of creators, those are objects, and they have
+// arrays inside, named: "advancements", "functions", "loot_tables", "recipes" and "structures".
+// Those arrays contain the filenames, and you should credit them if you made those files.
+// 
+// This will be a replacement to credits.md later, so yeah, you can use it now, but, please, just don't break it
+
+{
+    "credits": {
+        "Calamity34": {
+            "functions": [
+                "chicken.mcfunction"
+            ],
+            "recipes": [
+                "coarse_dirt.json",
+                "creeper.json",
+                "glass_pane.json",
+                "magma_block.json"
+            ]
+        }
+    }
+}

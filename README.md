@@ -32,7 +32,7 @@ If you cloned it into the `.minecraft/saves/WorldName/datapacks/` then i congrat
 That will make the datapack ready for usage in your world!
 
 ## File Adding Info
-If you have created a file, please be sure to add your github username to `/data/git/credits.md` so we know that you are the OG creator of the file
+If you have created a file, please be sure to add your github username to `/data/git/credits.md` (or [`credits.jsonc`](credits.jsonc)) so we know that you are the original creator of the file.
 
 ### Additional info
 1. USE THE DATAPACK ONLY IN VERSION 1.14.4 BECAUSE OF VARIOUS THINGS
