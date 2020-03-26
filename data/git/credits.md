@@ -16,6 +16,7 @@ The contents of this file will later be transformed into [JSON](../../credits.js
 [creeper.json] - @Calamity34<br />
 [glass_pane.json] - @Calamity34<br />
 [magma_block.json] - @Calamity34<br />
+[enderman.json] - @Calamity34<br />
 
 ## Structures
 

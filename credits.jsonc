@@ -15,7 +15,8 @@
                 "coarse_dirt.json",
                 "creeper.json",
                 "glass_pane.json",
-                "magma_block.json"
+                "magma_block.json",
+                "enderman.json"
             ]
         }
     }
