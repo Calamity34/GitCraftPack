@@ -19,6 +19,7 @@ On Windows and MacOS: Go to https://git-scm.com and download and install it from
 9. That will take you to the PRC (Pull Request Creation) page, where you input:
 * Title: Short description of what you did
 * Description: Additional info if needed
+
 On the right sidebar:
 * Label: Short mark of what you did (a new feature, fixed a bug, etc.)
 * Linked Issues: if any happen to be that could be fixed with this request
